@@ -92,7 +92,7 @@
                                     <div class="nav-wrap">        
                                         <nav id="mainnav" class="mainnav">
                                             <ul class="menu"> 
-                                                <li class="active">
+                                                <li class="">
                                                     <a href="index.php">Home</a>
                                                     <!--<ul class="submenu"> 
                                                     <li><a href="index.html">Home Header Style</a>

@@ -35,7 +35,7 @@
                                 </div>
                                 <div class="box-content">
                                     <div class="box-title">Address Info</div>    
-                                    <p>No: 5/7, 3rd School street, Virugambakkam,
+                                    <p>3rd School street, Virugambakkam,
                                      Chennai-600 092</p> 
                                 </div>
                             </div>

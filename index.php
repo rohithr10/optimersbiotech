@@ -11,7 +11,7 @@
                                     <li data-index="rs-3051" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"    data-rotate="0"  data-saveperformance="off"  data-title="Ken Burns" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="" data-duration="0">                        
 
                                         <!-- MAIN IMAGE -->
-                                        <img src="images/slides/s3.jpg"  alt=""  data-bgposition="center center" data-kenburns="off" data-duration="0" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                                        <img src="images/slides/slide2.jpg"  alt=""  data-bgposition="center center" data-kenburns="off" data-duration="0" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                                         <!-- LAYERS -->
 
                                         <!-- LAYER NR. 12 -->
@@ -37,7 +37,7 @@
                                             data-paddingbottom="[0,0,0,0"
                                             data-paddingleft="[0,0,0,0]"
 
-                                            style="z-index: 16; white-space: nowrap;text-transform:left;">Optimer Biotech
+                                            style="z-index: 16; white-space: nowrap;text-transform:left;">Optimers Biotech
                                         </div>
 
                                         <!-- LAYER NR. 13 -->
@@ -62,7 +62,7 @@
                                             data-paddingbottom="[0,0,0,0]"
                                             data-paddingleft="[0,0,0,0]"
 
-                                            style="z-index: 17; white-space: nowrap;text-transform:left;">Better  <span class="style-color">World - Slide 1</span><br> 
+                                         style="z-index: 17; white-space: nowrap;text-transform:left;">Better  <span class="style-color">World</span><br>
                                         </div>
 
                                         <!--<a href="#" target="_self" class="tp-caption flat-button-slider flat-button border pd-style2 lettspacing_08"         
@@ -80,7 +80,7 @@
                                     <li data-index="rs-3049" data-transition="random-static" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"    data-rotate="0"  data-saveperformance="off"  data-title="Ken Burns" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="" data-duration="0">                        
 
                                         <!-- MAIN IMAGE -->
-                                        <img src="images/slides/s1.jpg"  alt=""  data-bgposition="center center" data-kenburns="off" data-duration="0" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                                        <img src="images/slides/slide1.jpg"  alt=""  data-bgposition="center center" data-kenburns="off" data-duration="0" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                                         <!-- LAYERS -->
 
                                         <!-- LAYER NR. 12 -->
@@ -106,7 +106,7 @@
                                             data-paddingbottom="[0,0,0,0"
                                             data-paddingleft="[0,0,0,0]"
 
-                                            style="z-index: 16; white-space: nowrap;text-transform:left;">Intelligent Websites
+                                            style="z-index: 16; white-space: nowrap;text-transform:left;">Future of Research is Here
                                         </div>
 
                                         <!-- LAYER NR. 13 -->
@@ -131,7 +131,7 @@
                                             data-paddingbottom="[0,0,0,0]"
                                             data-paddingleft="[0,0,0,0]"
 
-                                            style="z-index: 17; white-space: nowrap;text-transform:left;">Better<span class="style-color">World<span class="style-color">Slide 2</span>. 
+                                            style="z-index: 17; white-space: nowrap;text-transform:left;">Better<span class="style-color">&nbsp;World</span>
                                         </div>
 
                                         <!--<a href="#" target="_self" class="tp-caption flat-button-slider flat-button border lettspacing_08"         
@@ -148,7 +148,7 @@
                             </div>
             </div><!-- END REVOLUTION SLIDER --> 
 
-            <section class="flat-row v12 wrap-iconbox">
+            <!--section class="flat-row v12 wrap-iconbox">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
@@ -249,7 +249,7 @@
                         </div>
                     </div>
                 </div>          
-            </section> 
+            </section>--> 
 
             <section class="section-video parallax parallax4">
                 <div class="overlay-parallax style3"></div>
@@ -367,7 +367,7 @@
                 </div>
             </section> 
 
-            <section class="flat-row v10">
+            <!--section class="flat-row v10">
                <div class="container">
                    <div class="row">
                         <div class="col-md-12">
@@ -385,7 +385,7 @@
                                             </div>
                                             <div class="name-count">employees from around<br>the world</div>
                                         </div>
-                                    </div><!-- /.flat-counter -->
+                                    </div>
                                     <div class="flat-counter">                            
                                         <div class="content-counter">
                                             <div class="content-number">
@@ -393,7 +393,7 @@
                                             </div>
                                             <div class="name-count">happy clients from largest<br>corporations</div>
                                         </div>
-                                    </div><!-- /.flat-counter -->
+                                    </div>
                                     <div class="flat-counter">                            
                                         <div class="content-counter">
                                             <div class="content-number">
@@ -401,13 +401,13 @@
                                             </div>
                                             <div class="name-count">offices in 6 countries<br>worldwide</div>
                                         </div>
-                                    </div><!-- /.flat-counter -->
+                                    </div>
                                 </div>
                             </div>
                         </div>
                    </div>
                </div>
-            </section>
+            </section-->
 
             <section class="flat-row v6 parallax parallax3">
                 <div class="container">

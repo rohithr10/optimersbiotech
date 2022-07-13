@@ -8,7 +8,7 @@
                         <ul>
                             <li><a href="index.html">Home</a></li>
                             <li><a href="services.html">Services</a></li>                            
-                            <li> Services Version</li>
+                            <!--<li> Services Version</li>-->
                         </ul>                   
                     </div><!-- /.breadcrumbs -->  
                 </div><!-- /.col-md-12 -->  
@@ -23,7 +23,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="featured-services">
-                            <img src="images/services/bg.jpg" alt="image">
+                            <img src="images/UN.png" alt="image">
                         </div>
                         <div class="divider h98"></div>
                     </div>
@@ -34,9 +34,9 @@
                     <div class="col-md-12">
                        <div class="title-section">
                             <h1 class="title">Services Provided</h1>
-                            <div class="sub-title">
+                            <!--div class="sub-title">
                                 Simply looking for a pretty website? We're much more.
-                            </div>
+                            </div-->
                         </div> 
                     </div>
                 </div>
