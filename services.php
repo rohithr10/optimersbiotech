@@ -23,7 +23,17 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="featured-services">
-                            <img src="images/UN.png" alt="image">
+                            <img src="images/about.png" alt="image">
+                        </div>
+                        <div class="divider h98"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="featured-services">
+                            <img src="images/about-2.png" alt="image">
                         </div>
                         <div class="divider h98"></div>
                     </div>
